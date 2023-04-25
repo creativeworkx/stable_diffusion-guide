@@ -1,6 +1,7 @@
 # Stable Diffusion - Models Checkpoints Guide
 
-## Clarity 2
+## Clarity
+### Version 2
 - Get here: https://civitai.com/models/5062/clarity
 - VAE: vae-ft-mse-840000-ema-pruned.safetensors
 - Sampler: DPM++ SDE Karras with 26 Steps
@@ -9,6 +10,7 @@
 - Clip Skip: 1 (do not use 2)
 
 ## Lyriel
+### Version 1.5
 - Get here: https://civitai.com/models/22922/lyriel
 - VAE: vae-ft-mse-840000-ema-pruned.safetensors
 - Sampler: DPM++2M Karras with 25-35+ Steps
