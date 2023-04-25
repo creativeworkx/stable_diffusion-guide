@@ -31,3 +31,11 @@
 - Sampler: DPM++ 2M Karras with 30 steps
 - Size: 512x768
 - Clip Skip: 2
+
+## Dreamshaper
+### Version 5
+- Get here: https://civitai.com/models/4384/dreamshaper
+- VAE: Has VAE baked in, so choose "None". Other variants available, see Civitai.
+- Sampler: DPM++ SDE Karras with 25 Steps
+- Size: 512x768
+- Clip Skip: 2
