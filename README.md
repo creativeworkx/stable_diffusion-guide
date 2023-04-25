@@ -6,7 +6,6 @@
 - VAE: vae-ft-mse-840000-ema-pruned.safetensors
 - Sampler: DPM++ SDE Karras with 26 Steps
 - Size: 512x768
-- CFG Scale: 6,5
 - Clip Skip: 1 (do not use 2)
 
 ## Lyriel
@@ -15,5 +14,12 @@
 - VAE: vae-ft-mse-840000-ema-pruned.safetensors
 - Sampler: DPM++2M Karras with 25-35+ Steps
 - Size: 512x768
-- CFG Scale: 6,5
 - Clip Skip: 2
+
+## Realistic Vision
+### Version 2
+- Get here: https://civitai.com/models/4201/realistic-vision-v20
+- VAE: vae-ft-mse-840000-ema-pruned.safetensors
+- Sampler: Euler A or DPM++ 2M Karras with 25 steps
+- Size: 512x768
+- Clip Skip: No Info provided
